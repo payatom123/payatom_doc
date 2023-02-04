@@ -28,14 +28,14 @@ refund_notes
 ```                
 
  From the webHook you will get following status
-        Approved	:> Payment is Approved by our system
-        Late Approved :> Payment is Late approved by human intervention
-        Declined :>	Payment is declined by our system
-        No Matching Payment for UTR	:> system waited till timeout but no payment/matching UTR received against the payment 
-        Pending	:> User session in active waiting to finish payment
-        User Timed Out :>	User did'nt finished payment within the session period
-        Refund Initiated :> Refund initiated for this order_id
-        Refund Completed :> Refund completed for this order_id
+-        Approved	:> Payment is Approved by our system
+-       Late Approved :> Payment is Late approved by human intervention
+ -       Declined :>	Payment is declined by our system
+ -       No Matching Payment for UTR	:> system waited till timeout but no payment/matching UTR received against the payment 
+  -      Pending	:> User session in active waiting to finish payment
+  -      User Timed Out :>	User did'nt finished payment within the session period
+   -     Refund Initiated :> Refund initiated for this order_id
+   -     Refund Completed :> Refund completed for this order_id
      
 				
 ![image](https://user-images.githubusercontent.com/124431027/216763027-53f3ba10-6e04-4eb6-9e59-d1e76f38db9d.png) 
