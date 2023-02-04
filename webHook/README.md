@@ -36,8 +36,9 @@ refund_notes
         User Timed Out :>	User did'nt finished payment within the session period
         Refund Initiated :> Refund initiated for this order_id
         Refund Completed :> Refund completed for this order_id
-
-![image](https://user-images.githubusercontent.com/30625676/213218551-7deef0e1-2812-421c-8845-767a5207fef6.png)
+     
+				
+![image](https://user-images.githubusercontent.com/124431027/216763027-53f3ba10-6e04-4eb6-9e59-d1e76f38db9d.png) 
 
 
 ### Following are steps to integrate WebHook
